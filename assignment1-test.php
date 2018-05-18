@@ -13,6 +13,11 @@ class AssignmentOneTest extends PHPUnit\Framework\TestCase
         $this->assertEquals([[1, 2, 3], [1, 2, 3, 4], [0]], split_increasing([1, 2, 3, 1, 2, 3, 4, 0]));
     }
 
+    public function testNegative()
+    {
+        $this->assertEquals([[-1], [-2]], [-1, -2]);
+    }
+
     public function testSame()
     {
         $this->assertEquals([[1], [1]], split_increasing([1, 1]));

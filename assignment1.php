@@ -1,4 +1,5 @@
 <?php
+require_once "print.php";
 
 /**
  * Split the input every time the number doesn't increase
@@ -15,10 +16,4 @@ function split_increasing(array $input): array
     return $result;
 }
 
-if (!class_exists("\PHPUnit\Framework\TestCase")) {
-    $input = [1, 2, 3, 5, 4, 6, 7, 8, 9, 9, 10];
-
-    echo PHP_EOL;
-    echo "INPUT:  " . json_encode($input) . PHP_EOL;
-    echo "OUTPUT: " . json_encode(split_increasing($input)) . PHP_EOL;
-}
+printInOut([1, 2, 3, 5, 4, 6, 7, 8, 9, 9, 10], 'split_increasing');
