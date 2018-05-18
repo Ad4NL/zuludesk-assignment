@@ -8,7 +8,17 @@
  */
 function split_increasing(array $input): array
 {
-    // TODO Code here
+    $result = [];
+
+    // TODO code!
+
+    return $result;
 }
 
-var_dump(split_increasing([1, 2, 3, 5, 4, 6, 8, 9, 9, 10]));
+if (!class_exists("\PHPUnit\Framework\TestCase")) {
+    $input = [1, 2, 3, 5, 4, 6, 7, 8, 9, 9, 10];
+
+    echo PHP_EOL;
+    echo "INPUT:  " . json_encode($input) . PHP_EOL;
+    echo "OUTPUT: " . json_encode(split_increasing($input)) . PHP_EOL;
+}

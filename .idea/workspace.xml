@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8ccfee7-593b-417c-95af-57ecf5863e87" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment1_tests.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/AssignmentOneTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Assignment_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment1-test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment1.php" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="assignment1.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment1.php">
+      <file leaf-file-name="assignment1-test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment1-test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment1_tests.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1_tests.php">
+      <file leaf-file-name="assignment1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -41,6 +46,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assignment1_tests.php" />
+        <option value="$PROJECT_DIR$/assignment1-test.php" />
         <option value="$PROJECT_DIR$/assignment1.php" />
       </list>
     </option>
@@ -54,8 +60,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1920" />
     <option name="width" value="2304" />
     <option name="height" value="1296" />
@@ -96,8 +105,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Assignment 1" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/assignment1.php" />
+  <component name="RunManager" selected="PHP Script.Assignment 1">
+    <list>
+      <item itemvalue="PHP Script.Assignment 1" />
+      <item itemvalue="PHPUnit.AssignmentOneTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.AssignmentOneTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -109,27 +126,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526630126266</updated>
-      <workItem from="1526630127429" duration="189000" />
+      <workItem from="1526630127429" duration="3019000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 29m 04s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 29m 16s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 30m 04s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 30m 35s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 36m 02s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 37m 23s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 37m 39s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 38m 32s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 40m 15s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="AssignmentOneTest - 2018.05.18 at 11h 40m 31s.xml">
+      <configuration name="AssignmentOneTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189000" />
+    <option name="totallyTimeSpent" value="3019000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="2304" height="1296" extended-state="0" />
+    <frame x="1920" y="0" width="2304" height="1296" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -137,7 +187,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -147,18 +196,44 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assignment1_tests.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestSuite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
