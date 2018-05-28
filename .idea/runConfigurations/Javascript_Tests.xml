@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Javascript Tests" type="js.build_tools.npm" factoryName="npm">
+    <package-json value="$PROJECT_DIR$/js/package.json" />
+    <command value="test" />
+    <node-interpreter value="project" />
+    <package-manager value="$PROJECT_DIR$/js/node_modules/npm" />
+    <envs />
+    <method />
+  </configuration>
+</component>
