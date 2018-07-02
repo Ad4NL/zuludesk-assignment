@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Assignment 1 TEST" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner class="AssignmentOneTest" file="$PROJECT_DIR$/php/assignment1-test.php" scope="Class" />
+    <method />
+  </configuration>
+</component>

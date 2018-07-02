@@ -1,4 +1,5 @@
 <?php
+require_once 'vendor/autoload.php';
 require_once 'assignment1.php';
 
 class AssignmentOneTest extends PHPUnit\Framework\TestCase
@@ -15,7 +16,7 @@ class AssignmentOneTest extends PHPUnit\Framework\TestCase
 
     public function testNegative()
     {
-        $this->assertEquals([[-1], [-2]], [-1, -2]);
+        $this->assertEquals([[-1], [-2]], split_increasing([-1, -2]));
     }
 
     public function testSame()
